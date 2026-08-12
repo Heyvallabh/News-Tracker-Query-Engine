@@ -1,0 +1,13 @@
+# Environment variables (secrets)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file (contains scraped data, not code — shouldn't be versioned)
+news.db
+
+# OS/editor junk
+.DS_Store
+.vscode/
